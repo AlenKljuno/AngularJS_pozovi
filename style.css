@@ -1,0 +1,33 @@
+main{
+    width: 400px;
+    float: left;
+}
+
+aside{
+    width: 400px;
+    float: right;
+}
+
+ul li{
+    list-style: none;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.slika1{
+    width: 60px;
+    border-radius: 40%;
+}
+
+
+ul li:hover{
+    opacity: .6;
+}
+
+button{
+    float: right;
+}
+
+.slika2{
+    width: 100%;
+}
